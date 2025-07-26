@@ -1,1 +1,1 @@
-CodSoft_RecommendationSystem
+movie RecommendationSystem
